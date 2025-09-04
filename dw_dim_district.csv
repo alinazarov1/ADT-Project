@@ -1,0 +1,750 @@
+1;1;Park Area 1;58088
+2;1;Historic District 2;20905
+3;1;University Area 3;19140
+4;1;Downtown 4;18554
+5;1;University Area 5;61978
+6;1;Riverside 6;77112
+7;1;Riverside 7;49635
+8;1;University Area 8;71539
+9;1;Park Area 9;15196
+10;1;Downtown 10;92259
+11;1;Uptown 11;73441
+12;1;Industrial Zone 12;54015
+13;1;Downtown 13;19794
+14;1;Riverside 14;76642
+15;1;Historic District 15;96064
+16;1;Park Area 16;98876
+17;1;Riverside 17;13733
+18;1;Riverside 18;88942
+19;1;Park Area 19;60198
+20;1;Historic District 20;46746
+21;1;Industrial Zone 21;64669
+22;1;Historic District 22;30639
+23;1;Riverside 23;76835
+24;1;Downtown 24;40473
+25;1;Uptown 25;61602
+26;1;Downtown 26;79084
+27;1;Business Center 27;84200
+28;1;Residential Zone 28;18658
+29;1;Business Center 29;74031
+30;1;Riverside 30;80866
+31;1;Uptown 31;45511
+32;1;University Area 32;13789
+33;1;Shopping District 33;89895
+34;1;Historic District 34;39160
+35;1;Shopping District 35;33502
+36;1;Industrial Zone 36;41366
+37;1;Industrial Zone 37;26256
+38;1;Riverside 38;75019
+39;1;Park Area 39;59808
+40;1;Industrial Zone 40;29369
+41;1;Business Center 41;44340
+42;1;Riverside 42;72292
+43;1;Riverside 43;31847
+44;1;Park Area 44;67846
+45;1;Downtown 45;54821
+46;1;Downtown 46;29401
+47;1;Shopping District 47;17079
+48;1;Park Area 48;89708
+49;1;Historic District 49;29877
+50;1;Shopping District 50;78570
+51;2;Uptown 1;16707
+52;2;Business Center 2;76049
+53;2;Riverside 3;68469
+54;2;Shopping District 4;91739
+55;2;Industrial Zone 5;70591
+56;2;Downtown 6;20681
+57;2;Park Area 7;66459
+58;2;Industrial Zone 8;85943
+59;2;Business Center 9;57846
+60;2;Uptown 10;80501
+61;2;University Area 11;61216
+62;2;University Area 12;88657
+63;2;Industrial Zone 13;36762
+64;2;Downtown 14;75032
+65;2;University Area 15;64699
+66;2;Business Center 16;23845
+67;2;Business Center 17;93579
+68;2;Downtown 18;15406
+69;2;Industrial Zone 19;90229
+70;2;Uptown 20;99666
+71;2;Shopping District 21;20826
+72;2;Park Area 22;13267
+73;2;Downtown 23;62522
+74;2;University Area 24;66852
+75;2;Shopping District 25;36079
+76;2;Riverside 26;45742
+77;2;University Area 27;78922
+78;2;Residential Zone 28;79492
+79;2;Industrial Zone 29;44675
+80;2;Park Area 30;71172
+81;2;Industrial Zone 31;31861
+82;2;Industrial Zone 32;50241
+83;2;Business Center 33;79766
+84;2;Park Area 34;19605
+85;2;Downtown 35;95007
+86;2;Uptown 36;19561
+87;2;Park Area 37;73800
+88;2;Shopping District 38;43482
+89;2;Residential Zone 39;56217
+90;2;Historic District 40;25412
+91;2;Shopping District 41;98043
+92;2;Residential Zone 42;11345
+93;2;Industrial Zone 43;31912
+94;2;Shopping District 44;35021
+95;2;Business Center 45;29176
+96;2;Park Area 46;80285
+97;2;Shopping District 47;29821
+98;2;Shopping District 48;46046
+99;2;University Area 49;88833
+100;2;Park Area 50;72111
+101;3;Industrial Zone 1;99916
+102;3;Industrial Zone 2;44283
+103;3;University Area 3;93769
+104;3;Downtown 4;15201
+105;3;Shopping District 5;23082
+106;3;Industrial Zone 6;90653
+107;3;Uptown 7;40011
+108;3;Park Area 8;62737
+109;3;University Area 9;36189
+110;3;Shopping District 10;47908
+111;3;Business Center 11;85611
+112;3;Historic District 12;62483
+113;3;Residential Zone 13;55371
+114;3;Park Area 14;40106
+115;3;Industrial Zone 15;11905
+116;3;Shopping District 16;83549
+117;3;Downtown 17;25950
+118;3;Business Center 18;94399
+119;3;Residential Zone 19;81869
+120;3;Shopping District 20;77128
+121;3;Industrial Zone 21;38950
+122;3;Uptown 22;93017
+123;3;Uptown 23;74181
+124;3;Business Center 24;85132
+125;3;Business Center 25;40031
+126;3;Downtown 26;45434
+127;3;Business Center 27;87428
+128;3;Downtown 28;95885
+129;3;Industrial Zone 29;38525
+130;3;Uptown 30;94546
+131;3;Downtown 31;83470
+132;3;Industrial Zone 32;66314
+133;3;University Area 33;79686
+134;3;Residential Zone 34;66970
+135;3;Downtown 35;15335
+136;3;Park Area 36;63548
+137;3;Residential Zone 37;31247
+138;3;Business Center 38;67045
+139;3;Residential Zone 39;48120
+140;3;University Area 40;59789
+141;3;Residential Zone 41;52180
+142;3;Industrial Zone 42;43352
+143;3;Uptown 43;97516
+144;3;Riverside 44;74879
+145;3;Residential Zone 45;92413
+146;3;Residential Zone 46;64453
+147;3;Historic District 47;87179
+148;3;Park Area 48;87514
+149;3;University Area 49;48453
+150;3;Industrial Zone 50;29350
+151;4;Residential Zone 1;16949
+152;4;Business Center 2;45878
+153;4;Historic District 3;56707
+154;4;University Area 4;15559
+155;4;Riverside 5;50378
+156;4;Industrial Zone 6;64004
+157;4;Downtown 7;20146
+158;4;Historic District 8;21796
+159;4;Riverside 9;87002
+160;4;Business Center 10;22488
+161;4;Historic District 11;17870
+162;4;Industrial Zone 12;66907
+163;4;Residential Zone 13;90693
+164;4;Residential Zone 14;61137
+165;4;Residential Zone 15;13269
+166;4;Business Center 16;57958
+167;4;Business Center 17;47392
+168;4;Industrial Zone 18;79704
+169;4;Uptown 19;66293
+170;4;Park Area 20;60018
+171;4;Business Center 21;16001
+172;4;Historic District 22;50509
+173;4;Business Center 23;79922
+174;4;Historic District 24;72082
+175;4;Industrial Zone 25;70761
+176;4;University Area 26;63724
+177;4;Riverside 27;10999
+178;4;Riverside 28;12946
+179;4;Business Center 29;15743
+180;4;Residential Zone 30;72996
+181;4;Riverside 31;10281
+182;4;Business Center 32;69527
+183;4;Park Area 33;38191
+184;4;University Area 34;87182
+185;4;University Area 35;89852
+186;4;Shopping District 36;56854
+187;4;Park Area 37;30686
+188;4;Uptown 38;61693
+189;4;Uptown 39;14449
+190;4;Historic District 40;78063
+191;4;Park Area 41;18900
+192;4;Shopping District 42;15666
+193;4;Shopping District 43;63523
+194;4;Residential Zone 44;78280
+195;4;Riverside 45;33792
+196;4;Historic District 46;25227
+197;4;Park Area 47;62591
+198;4;Riverside 48;63166
+199;4;Riverside 49;76187
+200;4;Downtown 50;69143
+201;5;Shopping District 1;51790
+202;5;Park Area 2;14861
+203;5;Industrial Zone 3;33475
+204;5;Business Center 4;32491
+205;5;Residential Zone 5;75286
+206;5;Riverside 6;42973
+207;5;University Area 7;75006
+208;5;Business Center 8;86167
+209;5;University Area 9;47570
+210;5;Riverside 10;49268
+211;5;University Area 11;21452
+212;5;Park Area 12;92530
+213;5;Park Area 13;13861
+214;5;Downtown 14;37653
+215;5;Riverside 15;53454
+216;5;Shopping District 16;62059
+217;5;Historic District 17;99898
+218;5;Downtown 18;60654
+219;5;Park Area 19;88064
+220;5;Uptown 20;52701
+221;5;Shopping District 21;99547
+222;5;Industrial Zone 22;84045
+223;5;University Area 23;60549
+224;5;Historic District 24;23038
+225;5;Residential Zone 25;48883
+226;5;Uptown 26;56767
+227;5;Residential Zone 27;25202
+228;5;Historic District 28;82268
+229;5;University Area 29;89079
+230;5;Riverside 30;25282
+231;5;Park Area 31;84505
+232;5;Industrial Zone 32;14019
+233;5;Business Center 33;60707
+234;5;University Area 34;31504
+235;5;Riverside 35;19497
+236;5;Residential Zone 36;69420
+237;5;Historic District 37;40932
+238;5;Shopping District 38;14980
+239;5;Industrial Zone 39;53643
+240;5;Industrial Zone 40;98779
+241;5;Park Area 41;39066
+242;5;Shopping District 42;16343
+243;5;Historic District 43;58459
+244;5;Industrial Zone 44;18397
+245;5;Industrial Zone 45;59998
+246;5;University Area 46;51983
+247;5;Uptown 47;10217
+248;5;Downtown 48;89294
+249;5;Downtown 49;72998
+250;5;Uptown 50;25624
+251;6;University Area 1;38627
+252;6;Uptown 2;39367
+253;6;Uptown 3;64449
+254;6;Park Area 4;84201
+255;6;University Area 5;53140
+256;6;Uptown 6;47114
+257;6;Residential Zone 7;90698
+258;6;Historic District 8;11461
+259;6;Residential Zone 9;60330
+260;6;University Area 10;46497
+261;6;Business Center 11;90851
+262;6;Downtown 12;22829
+263;6;University Area 13;31380
+264;6;University Area 14;24499
+265;6;Park Area 15;92422
+266;6;Historic District 16;96719
+267;6;Park Area 17;44373
+268;6;Industrial Zone 18;34130
+269;6;Uptown 19;83515
+270;6;Industrial Zone 20;85175
+271;6;Uptown 21;70517
+272;6;Riverside 22;33649
+273;6;Historic District 23;76158
+274;6;Residential Zone 24;70601
+275;6;Historic District 25;96710
+276;6;Uptown 26;72973
+277;6;University Area 27;47295
+278;6;Shopping District 28;88282
+279;6;Park Area 29;14569
+280;6;Riverside 30;51667
+281;6;Uptown 31;11295
+282;6;Business Center 32;38141
+283;6;Riverside 33;92596
+284;6;University Area 34;92439
+285;6;Residential Zone 35;37144
+286;6;Uptown 36;19681
+287;6;Residential Zone 37;48599
+288;6;Park Area 38;12071
+289;6;Historic District 39;23022
+290;6;Industrial Zone 40;96594
+291;6;Shopping District 41;34341
+292;6;Historic District 42;43112
+293;6;Uptown 43;87707
+294;6;Shopping District 44;53802
+295;6;Uptown 45;81324
+296;6;Downtown 46;59873
+297;6;Residential Zone 47;17283
+298;6;Historic District 48;75862
+299;6;Historic District 49;88797
+300;6;Residential Zone 50;33132
+301;7;Historic District 1;68934
+302;7;University Area 2;33349
+303;7;Business Center 3;62443
+304;7;Historic District 4;52462
+305;7;Park Area 5;25929
+306;7;Business Center 6;56308
+307;7;Riverside 7;98070
+308;7;University Area 8;75047
+309;7;Riverside 9;67681
+310;7;Business Center 10;57087
+311;7;Uptown 11;83163
+312;7;Park Area 12;94821
+313;7;Residential Zone 13;98105
+314;7;Historic District 14;22636
+315;7;Shopping District 15;78994
+316;7;Uptown 16;99663
+317;7;Shopping District 17;58486
+318;7;Riverside 18;45875
+319;7;Residential Zone 19;33112
+320;7;Business Center 20;32010
+321;7;Downtown 21;96770
+322;7;Business Center 22;30976
+323;7;Shopping District 23;42515
+324;7;Industrial Zone 24;56411
+325;7;Park Area 25;47209
+326;7;Shopping District 26;66115
+327;7;University Area 27;49462
+328;7;Downtown 28;71628
+329;7;Park Area 29;43430
+330;7;Downtown 30;95191
+331;7;Shopping District 31;99005
+332;7;University Area 32;56163
+333;7;Industrial Zone 33;88280
+334;7;Shopping District 34;49756
+335;7;Park Area 35;48223
+336;7;Historic District 36;11355
+337;7;Residential Zone 37;90821
+338;7;Residential Zone 38;56404
+339;7;University Area 39;60161
+340;7;Residential Zone 40;63721
+341;7;Historic District 41;77368
+342;7;Riverside 42;89391
+343;7;Park Area 43;17937
+344;7;Riverside 44;79400
+345;7;Residential Zone 45;22056
+346;7;Downtown 46;79554
+347;7;Downtown 47;51160
+348;7;University Area 48;86811
+349;7;Shopping District 49;15579
+350;7;Industrial Zone 50;14445
+351;8;Residential Zone 1;35683
+352;8;Park Area 2;63002
+353;8;Downtown 3;30049
+354;8;Residential Zone 4;94733
+355;8;Downtown 5;52159
+356;8;Industrial Zone 6;53908
+357;8;Uptown 7;47936
+358;8;University Area 8;55350
+359;8;Downtown 9;10344
+360;8;Business Center 10;21658
+361;8;Industrial Zone 11;79744
+362;8;University Area 12;87171
+363;8;Shopping District 13;58780
+364;8;Downtown 14;96944
+365;8;University Area 15;80604
+366;8;Historic District 16;13548
+367;8;Riverside 17;47921
+368;8;Park Area 18;76769
+369;8;Historic District 19;31541
+370;8;Industrial Zone 20;90383
+371;8;Historic District 21;85159
+372;8;Residential Zone 22;65631
+373;8;Downtown 23;97942
+374;8;Historic District 24;21571
+375;8;Riverside 25;61772
+376;8;Historic District 26;79576
+377;8;Shopping District 27;87824
+378;8;Shopping District 28;37892
+379;8;Riverside 29;61564
+380;8;Downtown 30;63256
+381;8;University Area 31;28327
+382;8;Industrial Zone 32;86900
+383;8;Downtown 33;67994
+384;8;University Area 34;87027
+385;8;Shopping District 35;95698
+386;8;University Area 36;56251
+387;8;Industrial Zone 37;73368
+388;8;Park Area 38;33848
+389;8;Industrial Zone 39;75185
+390;8;Residential Zone 40;30369
+391;8;Residential Zone 41;19494
+392;8;Downtown 42;90870
+393;8;Shopping District 43;58742
+394;8;University Area 44;54391
+395;8;University Area 45;40406
+396;8;Downtown 46;69640
+397;8;Downtown 47;25629
+398;8;Uptown 48;21767
+399;8;Historic District 49;14941
+400;8;Downtown 50;36249
+401;9;Business Center 1;34115
+402;9;Downtown 2;12818
+403;9;Business Center 3;89666
+404;9;Industrial Zone 4;27694
+405;9;Uptown 5;19424
+406;9;Uptown 6;89732
+407;9;Shopping District 7;91829
+408;9;Shopping District 8;52040
+409;9;Downtown 9;53825
+410;9;Historic District 10;47191
+411;9;Industrial Zone 11;13140
+412;9;Riverside 12;28971
+413;9;Industrial Zone 13;70470
+414;9;Park Area 14;68799
+415;9;Uptown 15;18839
+416;9;Residential Zone 16;53050
+417;9;Uptown 17;19113
+418;9;Residential Zone 18;45843
+419;9;Historic District 19;91310
+420;9;University Area 20;45954
+421;9;Shopping District 21;81006
+422;9;Uptown 22;38304
+423;9;Shopping District 23;12100
+424;9;Riverside 24;42969
+425;9;University Area 25;39173
+426;9;Park Area 26;14964
+427;9;Industrial Zone 27;21179
+428;9;Downtown 28;94728
+429;9;Park Area 29;72634
+430;9;Park Area 30;28450
+431;9;Park Area 31;20452
+432;9;Shopping District 32;23280
+433;9;Downtown 33;22191
+434;9;Business Center 34;22897
+435;9;Residential Zone 35;86707
+436;9;Residential Zone 36;73675
+437;9;Industrial Zone 37;84136
+438;9;Shopping District 38;28311
+439;9;Industrial Zone 39;36401
+440;9;Industrial Zone 40;74194
+441;9;University Area 41;27564
+442;9;Shopping District 42;15781
+443;9;Park Area 43;81681
+444;9;Industrial Zone 44;76625
+445;9;Downtown 45;23182
+446;9;Riverside 46;67437
+447;9;Industrial Zone 47;84998
+448;9;Business Center 48;52855
+449;9;Shopping District 49;44246
+450;9;Residential Zone 50;10389
+451;10;Uptown 1;48061
+452;10;University Area 2;99456
+453;10;Park Area 3;22270
+454;10;University Area 4;12659
+455;10;Industrial Zone 5;15640
+456;10;Downtown 6;25641
+457;10;Historic District 7;18520
+458;10;Historic District 8;76622
+459;10;Shopping District 9;81216
+460;10;Historic District 10;97567
+461;10;University Area 11;44618
+462;10;Shopping District 12;34783
+463;10;Riverside 13;54585
+464;10;Residential Zone 14;14319
+465;10;Downtown 15;96221
+466;10;Business Center 16;28414
+467;10;Shopping District 17;85244
+468;10;Downtown 18;47344
+469;10;University Area 19;66340
+470;10;Business Center 20;43364
+471;10;Business Center 21;11978
+472;10;Riverside 22;28755
+473;10;Historic District 23;62167
+474;10;Riverside 24;78875
+475;10;Business Center 25;70580
+476;10;Park Area 26;69082
+477;10;Downtown 27;20680
+478;10;Historic District 28;64963
+479;10;University Area 29;57638
+480;10;Residential Zone 30;23407
+481;10;University Area 31;36349
+482;10;Residential Zone 32;10588
+483;10;University Area 33;44328
+484;10;Riverside 34;62167
+485;10;Historic District 35;61696
+486;10;Uptown 36;62313
+487;10;Industrial Zone 37;34361
+488;10;Industrial Zone 38;84792
+489;10;Riverside 39;45089
+490;10;University Area 40;92677
+491;10;University Area 41;27347
+492;10;Shopping District 42;17113
+493;10;Historic District 43;82806
+494;10;University Area 44;92704
+495;10;Riverside 45;90504
+496;10;Riverside 46;88936
+497;10;Uptown 47;44926
+498;10;Park Area 48;15201
+499;10;University Area 49;34357
+500;10;Historic District 50;50121
+501;11;Historic District 1;42645
+502;11;Industrial Zone 2;24267
+503;11;Park Area 3;87157
+504;11;Shopping District 4;48574
+505;11;Downtown 5;81181
+506;11;Shopping District 6;80604
+507;11;Business Center 7;66984
+508;11;Residential Zone 8;68633
+509;11;Shopping District 9;52162
+510;11;Park Area 10;74562
+511;11;Shopping District 11;92523
+512;11;Uptown 12;82224
+513;11;University Area 13;89429
+514;11;Uptown 14;67758
+515;11;Business Center 15;32404
+516;11;Riverside 16;78832
+517;11;Residential Zone 17;27564
+518;11;Park Area 18;49604
+519;11;Residential Zone 19;24724
+520;11;Shopping District 20;87880
+521;11;Downtown 21;11762
+522;11;Shopping District 22;43109
+523;11;Downtown 23;88112
+524;11;University Area 24;90178
+525;11;University Area 25;94239
+526;11;Business Center 26;90875
+527;11;Business Center 27;80958
+528;11;Industrial Zone 28;88781
+529;11;Downtown 29;60251
+530;11;Industrial Zone 30;85898
+531;11;Downtown 31;63308
+532;11;Business Center 32;67082
+533;11;Riverside 33;38713
+534;11;Industrial Zone 34;61332
+535;11;Business Center 35;52089
+536;11;Riverside 36;18553
+537;11;Industrial Zone 37;34727
+538;11;Park Area 38;50579
+539;11;Riverside 39;43491
+540;11;Uptown 40;51012
+541;11;Residential Zone 41;49342
+542;11;University Area 42;17037
+543;11;University Area 43;97108
+544;11;Riverside 44;43330
+545;11;University Area 45;98853
+546;11;Business Center 46;52066
+547;11;Business Center 47;57117
+548;11;Industrial Zone 48;54335
+549;11;Residential Zone 49;71351
+550;11;Downtown 50;93550
+551;12;Business Center 1;88671
+552;12;Industrial Zone 2;43699
+553;12;Business Center 3;22693
+554;12;Riverside 4;21000
+555;12;University Area 5;36990
+556;12;Uptown 6;91326
+557;12;Historic District 7;80743
+558;12;Historic District 8;36045
+559;12;Residential Zone 9;39878
+560;12;Historic District 10;42210
+561;12;Shopping District 11;49385
+562;12;Riverside 12;24469
+563;12;Downtown 13;56692
+564;12;Park Area 14;96766
+565;12;Residential Zone 15;81315
+566;12;Park Area 16;78816
+567;12;University Area 17;32530
+568;12;Historic District 18;96670
+569;12;Business Center 19;94787
+570;12;Shopping District 20;65667
+571;12;Shopping District 21;80002
+572;12;Historic District 22;92028
+573;12;Industrial Zone 23;39388
+574;12;Park Area 24;13642
+575;12;Park Area 25;56646
+576;12;Park Area 26;51789
+577;12;Downtown 27;44860
+578;12;Shopping District 28;76407
+579;12;Industrial Zone 29;38375
+580;12;Historic District 30;22307
+581;12;Industrial Zone 31;29680
+582;12;Shopping District 32;88261
+583;12;Residential Zone 33;73987
+584;12;Shopping District 34;62208
+585;12;Park Area 35;38031
+586;12;Industrial Zone 36;85255
+587;12;Industrial Zone 37;63452
+588;12;Downtown 38;48758
+589;12;Business Center 39;36954
+590;12;Residential Zone 40;49849
+591;12;Shopping District 41;43898
+592;12;Business Center 42;51423
+593;12;Uptown 43;93450
+594;12;Uptown 44;22991
+595;12;Uptown 45;79858
+596;12;Residential Zone 46;52109
+597;12;Park Area 47;65864
+598;12;Industrial Zone 48;91381
+599;12;Riverside 49;53724
+600;12;Business Center 50;11483
+601;13;Historic District 1;78990
+602;13;Industrial Zone 2;53645
+603;13;Park Area 3;15441
+604;13;Downtown 4;16560
+605;13;Riverside 5;30566
+606;13;Park Area 6;61415
+607;13;University Area 7;99262
+608;13;Uptown 8;17304
+609;13;Industrial Zone 9;12990
+610;13;Downtown 10;81646
+611;13;Historic District 11;90421
+612;13;Industrial Zone 12;53307
+613;13;Industrial Zone 13;52018
+614;13;Historic District 14;59534
+615;13;Riverside 15;41285
+616;13;Park Area 16;59069
+617;13;University Area 17;91097
+618;13;Historic District 18;70581
+619;13;Downtown 19;21132
+620;13;Riverside 20;82209
+621;13;Industrial Zone 21;21565
+622;13;Uptown 22;22454
+623;13;Historic District 23;31369
+624;13;Shopping District 24;77466
+625;13;Park Area 25;53389
+626;13;Uptown 26;60463
+627;13;Riverside 27;61126
+628;13;Shopping District 28;41983
+629;13;University Area 29;93596
+630;13;Residential Zone 30;38322
+631;13;Shopping District 31;67461
+632;13;Industrial Zone 32;61880
+633;13;Industrial Zone 33;15413
+634;13;Historic District 34;18179
+635;13;Historic District 35;56545
+636;13;Shopping District 36;33486
+637;13;University Area 37;86682
+638;13;Historic District 38;11851
+639;13;Riverside 39;49824
+640;13;Historic District 40;19292
+641;13;Riverside 41;84148
+642;13;Residential Zone 42;33564
+643;13;University Area 43;43899
+644;13;Park Area 44;53568
+645;13;Industrial Zone 45;23158
+646;13;Downtown 46;71312
+647;13;Riverside 47;67896
+648;13;University Area 48;95102
+649;13;Shopping District 49;49229
+650;13;Park Area 50;26099
+651;14;Historic District 1;53300
+652;14;University Area 2;67022
+653;14;Historic District 3;10999
+654;14;University Area 4;38666
+655;14;Uptown 5;37105
+656;14;Industrial Zone 6;93059
+657;14;Uptown 7;57466
+658;14;Business Center 8;96263
+659;14;Business Center 9;26239
+660;14;Park Area 10;85339
+661;14;Business Center 11;65367
+662;14;Uptown 12;95478
+663;14;Downtown 13;21236
+664;14;Uptown 14;11639
+665;14;Downtown 15;97474
+666;14;Historic District 16;70592
+667;14;Shopping District 17;60460
+668;14;Shopping District 18;69464
+669;14;Residential Zone 19;71219
+670;14;Uptown 20;30925
+671;14;University Area 21;17408
+672;14;Historic District 22;54029
+673;14;Park Area 23;91977
+674;14;Downtown 24;79764
+675;14;Industrial Zone 25;13330
+676;14;Uptown 26;15901
+677;14;Residential Zone 27;18594
+678;14;Business Center 28;96811
+679;14;Residential Zone 29;46190
+680;14;Downtown 30;52363
+681;14;Riverside 31;31742
+682;14;Uptown 32;39225
+683;14;Shopping District 33;21614
+684;14;Industrial Zone 34;50701
+685;14;Riverside 35;91137
+686;14;Historic District 36;38521
+687;14;University Area 37;80982
+688;14;Shopping District 38;77478
+689;14;Riverside 39;84261
+690;14;Business Center 40;46449
+691;14;Business Center 41;14845
+692;14;Park Area 42;42322
+693;14;Uptown 43;60952
+694;14;Historic District 44;70026
+695;14;Downtown 45;20875
+696;14;Riverside 46;42320
+697;14;Uptown 47;27837
+698;14;Business Center 48;30445
+699;14;Riverside 49;52182
+700;14;Park Area 50;46809
+701;15;Downtown 1;34386
+702;15;Downtown 2;63062
+703;15;Historic District 3;65378
+704;15;Uptown 4;58055
+705;15;Downtown 5;65848
+706;15;Shopping District 6;10517
+707;15;Downtown 7;25679
+708;15;Residential Zone 8;84814
+709;15;Uptown 9;55552
+710;15;Historic District 10;86171
+711;15;Uptown 11;27600
+712;15;Business Center 12;86245
+713;15;Park Area 13;46950
+714;15;Industrial Zone 14;26191
+715;15;Park Area 15;43354
+716;15;University Area 16;85261
+717;15;Riverside 17;45939
+718;15;Historic District 18;64494
+719;15;Historic District 19;42994
+720;15;University Area 20;39058
+721;15;Park Area 21;76162
+722;15;Park Area 22;30424
+723;15;Residential Zone 23;49959
+724;15;Riverside 24;11103
+725;15;Uptown 25;46871
+726;15;Shopping District 26;56547
+727;15;Downtown 27;41711
+728;15;Historic District 28;17406
+729;15;Downtown 29;45989
+730;15;Industrial Zone 30;39425
+731;15;University Area 31;39345
+732;15;Business Center 32;25013
+733;15;Shopping District 33;67377
+734;15;Residential Zone 34;20996
+735;15;University Area 35;81887
+736;15;Residential Zone 36;61958
+737;15;Downtown 37;49025
+738;15;Downtown 38;11821
+739;15;University Area 39;37443
+740;15;University Area 40;13855
+741;15;Uptown 41;25239
+742;15;Downtown 42;58936
+743;15;Uptown 43;31733
+744;15;Industrial Zone 44;41476
+745;15;Uptown 45;10168
+746;15;Residential Zone 46;87969
+747;15;Residential Zone 47;36978
+748;15;Residential Zone 48;90546
+749;15;Downtown 49;50595
+750;15;Uptown 50;35574

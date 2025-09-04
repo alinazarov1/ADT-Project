@@ -1,0 +1,62 @@
+
+SQL*Loader: Release 21.0.0.0.0 - Production on Tue Jun 10 00:06:51 2025
+Version 21.3.0.0.0
+
+Copyright (c) 1982, 2021, Oracle and/or its affiliates.  All rights reserved.
+
+Control File:   dw_fact_bike_rental.ctl
+Data File:      dw_fact_bike_rental.csv
+  Bad File:     dw_fact_bike_rental.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 50
+Bind array:     250 rows, maximum of 1048576 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table DW_FACT_BIKE_RENTAL, loaded from every logical record.
+Insert option in effect for this table: INSERT
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+RENTAL_ID                           FIRST     *   ;  O(") CHARACTER            
+BIKE_ID                              NEXT     *   ;  O(") CHARACTER            
+START_STATION_ID                     NEXT     *   ;  O(") CHARACTER            
+END_STATION_ID                       NEXT     *   ;  O(") CHARACTER            
+START_TIME_ID                        NEXT     *   ;  O(") CHARACTER            
+END_TIME_ID                          NEXT     *   ;  O(") CHARACTER            
+CUSTOMER_ID                          NEXT     *   ;  O(") CHARACTER            
+PAYMENT_ID                           NEXT     *   ;  O(") CHARACTER            
+WEATHER_ID                           NEXT     *   ;  O(") CHARACTER            
+RENTAL_DURATION_MINUTES              NEXT     *   ;  O(") CHARACTER            
+RENTAL_COST                          NEXT     *   ;  O(") CHARACTER            
+DISTANCE_KM                          NEXT     *   ;  O(") CHARACTER            
+CALORIES_BURNED                      NEXT     *   ;  O(") CHARACTER            
+CARBON_SAVED_KG                      NEXT     *   ;  O(") CHARACTER            
+
+
+Table DW_FACT_BIKE_RENTAL:
+  100000 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 903000 bytes(250 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:        100000
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on Tue Jun 10 00:06:51 2025
+Run ended on Tue Jun 10 00:06:55 2025
+
+Elapsed time was:     00:00:04.58
+CPU time was:         00:00:00.68

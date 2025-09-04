@@ -1,0 +1,54 @@
+
+SQL*Loader: Release 21.0.0.0.0 - Production on Tue Jun 10 00:06:47 2025
+Version 21.3.0.0.0
+
+Copyright (c) 1982, 2021, Oracle and/or its affiliates.  All rights reserved.
+
+Control File:   dw_dim_station.ctl
+Data File:      dw_dim_station.csv
+  Bad File:     dw_dim_station.bad
+  Discard File:  none specified
+ 
+ (Allow all discards)
+
+Number to load: ALL
+Number to skip: 0
+Errors allowed: 50
+Bind array:     250 rows, maximum of 1048576 bytes
+Continuation:    none specified
+Path used:      Conventional
+
+Table DW_DIM_STATION, loaded from every logical record.
+Insert option in effect for this table: INSERT
+TRAILING NULLCOLS option in effect
+
+   Column Name                  Position   Len  Term Encl Datatype
+------------------------------ ---------- ----- ---- ---- ---------------------
+STATION_ID                          FIRST     *   ;  O(") CHARACTER            
+DISTRICT_ID                          NEXT     *   ;  O(") CHARACTER            
+STATION_NAME                         NEXT     *   ;  O(") CHARACTER            
+LATITUDE                             NEXT     *   ;  O(") CHARACTER            
+LONGITUDE                            NEXT     *   ;  O(") CHARACTER            
+TOTAL_CAPACITY                       NEXT     *   ;  O(") CHARACTER            
+
+
+Table DW_DIM_STATION:
+  75000 Rows successfully loaded.
+  0 Rows not loaded due to data errors.
+  0 Rows not loaded because all WHEN clauses were failed.
+  0 Rows not loaded because all fields were null.
+
+
+Space allocated for bind array:                 387000 bytes(250 rows)
+Read   buffer bytes: 1048576
+
+Total logical records skipped:          0
+Total logical records read:         75000
+Total logical records rejected:         0
+Total logical records discarded:        0
+
+Run began on Tue Jun 10 00:06:47 2025
+Run ended on Tue Jun 10 00:06:48 2025
+
+Elapsed time was:     00:00:00.80
+CPU time was:         00:00:00.20
