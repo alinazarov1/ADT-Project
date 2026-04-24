@@ -1,0 +1,24 @@
+erDiagram
+    dw_dim_country ||--o{ dw_dim_city : has
+    dw_dim_city ||--o{ dw_dim_district : has
+    dw_dim_district ||--o{ dw_dim_station : has
+
+    dw_dim_bike_manufacturer ||--o{ dw_dim_bike_model : makes
+    dw_dim_bike_model ||--o{ dw_dim_bike : includes
+
+    dw_dim_customer_type ||--o{ dw_dim_customer : classifies
+
+    dw_dim_membership ||--o{ dw_bridge_customer_membership : linked
+    dw_dim_customer ||--o{ dw_bridge_customer_membership : linked
+
+    dw_dim_payment_method ||--o{ dw_dim_payment : used_by
+    dw_dim_weather_condition ||--o{ dw_dim_weather : describes
+
+    dw_dim_bike ||--o{ dw_fact_bike_rental : bike
+    dw_dim_station ||--o{ dw_fact_bike_rental : start_station
+    dw_dim_station ||--o{ dw_fact_bike_rental : end_station
+    dw_dim_time ||--o{ dw_fact_bike_rental : start_time
+    dw_dim_time ||--o{ dw_fact_bike_rental : end_time
+    dw_dim_customer ||--o{ dw_fact_bike_rental : customer
+    dw_dim_payment ||--o{ dw_fact_bike_rental : payment
+    dw_dim_weather ||--o{ dw_fact_bike_rental : weather
